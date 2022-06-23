@@ -13,14 +13,14 @@ namespace API.Cliente.Controllers.V1
             {
                Nome = "Luanna",
                 Sobrenome = "Silva",
-                Cpf = "12500384640",
+                Cpf = "11111111111",
                 DataDeNascimento = new DateTime(1996,01,26)
             },
             new ClienteModelo()
             {
                 Nome = "Adriana",
                 Sobrenome = "Alexandre",
-                Cpf = "85401650663",
+                Cpf = "00000000000",
                 DataDeNascimento = new DateTime(1972,03,18)
             }
         };
